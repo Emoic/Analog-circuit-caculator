@@ -1,2 +1,3 @@
 # Analog-circuit-caculator
 This is a versatile calculator that will save engineers computation time when analyzing. It involves calculating the parameters of some typical circuit topologies, such as the voltage and current in an RC circuit. Besides, it covers most of the analog circuit knowledge learned so far, such as some calculations of operational amplifiers and microscopic calculations of Fermi·Dirac equations. It also has an analog-to-digital conversion section, which can be connected to the calculation section of the digital circuit.
+![image](https://github.com/Emoic/Analog-circuit-caculator/blob/main/%E6%8D%95%E8%8E%B73.PNG)
